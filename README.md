@@ -1,4 +1,4 @@
-<center><h1 style="font-size:60px;"><img src="./client/src/assets/img/icon.png" width="60" height = "60"> Connecting Dreams Hackathons <img src="./client/src/assets/img/icon.png" width="60" height = "60"></h1></center>
+<center><h1 style="font-size:60px;"> Connecting Dreams Foundation </h1></center>
 
 <hr style="border-top: 1px dashed white;border-bottom: 1px dashed white;">
 
